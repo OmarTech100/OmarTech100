@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "577613767904",
+    "firebase_url": "https://lines-new-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lines-new",
+    "storage_bucket": "lines-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577613767904:android:c36a22d05cab9c2f34dc85",
+        "android_client_info": {
+          "package_name": "com.kayanintelligence.lines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDJJ9c8SYa0y0r9AX5roxiDllhj6d-UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577613767904-0mkuubq9cunvdcdv5mv9bshhmn30dd7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaynintelligence.lines2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577613767904:android:5998b774012c463234dc85",
+        "android_client_info": {
+          "package_name": "com.kayanintelligence.linesDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDJJ9c8SYa0y0r9AX5roxiDllhj6d-UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577613767904-0mkuubq9cunvdcdv5mv9bshhmn30dd7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaynintelligence.lines2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577613767904:android:6d0f48560a6c172734dc85",
+        "android_client_info": {
+          "package_name": "com.kayanintelligence.linesRestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDJJ9c8SYa0y0r9AX5roxiDllhj6d-UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577613767904-k1m2g7v423md72h3lrv2libhc8shkirr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577613767904-0mkuubq9cunvdcdv5mv9bshhmn30dd7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaynintelligence.lines2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
